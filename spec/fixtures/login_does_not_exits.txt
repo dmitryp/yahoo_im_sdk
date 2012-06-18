@@ -1,0 +1,2 @@
+Error=LoginDoesntExist
+ErrorDescription=User login id does not exist

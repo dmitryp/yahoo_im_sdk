@@ -1,0 +1,1 @@
+{"sessionId":"session_id","primaryLoginId":"username","displayInfo":{"avatarPreference":"0"},"server":"rcore2.messenger.yahooapis.com","notifyServer":"rproxy2.messenger.yahooapis.com","constants":{"presenceSubscriptionsMaxPerRequest":500}}

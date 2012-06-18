@@ -1,0 +1,1 @@
+oauth_token=oauth_token&oauth_token_secret=secret&oauth_expires_in=3600&oauth_session_handle=oauth_session_handel&oauth_authorization_expires_in=807478353&xoauth_yahoo_guid=xoauth_yahoo_guid

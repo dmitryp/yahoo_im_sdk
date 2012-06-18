@@ -1,0 +1,3 @@
+module YahooImSdk
+  VERSION = "0.0.1"
+end
